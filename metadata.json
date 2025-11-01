@@ -1,0 +1,5 @@
+{
+  "name": "SkyFitness",
+  "description": "An AI-powered fitness and diet planner that generates personalized daily routines based on your goals and desired duration. It provides detailed exercises, meal plans, and budget-friendly diet alternatives, and remembers your progress.",
+  "requestFramePermissions": []
+}
